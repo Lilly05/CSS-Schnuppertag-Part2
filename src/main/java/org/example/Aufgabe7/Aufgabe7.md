@@ -84,3 +84,8 @@ multipliziereMitVier verlangt einen Parameter, wir geben 4 mit und erhalten 16, 
 textAusgeben verlangt keine Parameter und gibt nur Text auf der Konsole aus und gibt keinen Wert zurück
 
 returnQuote verlangt keine Parameter und gibt "Hallo Leben" zurück.
+
+Weitere Links:</br>
+<a href="https://www.w3schools.com/java/java_methods.asp">Methoden</a></br>
+<a href="https://www.w3schools.com/java/java_methods_param.asp">Methoden mit Parametern</a></br>
+<a href="https://www.w3schools.com/java/java_math.asp">Random Zahl generieren</a>

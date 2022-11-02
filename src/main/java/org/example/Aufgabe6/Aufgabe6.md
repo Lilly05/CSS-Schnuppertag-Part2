@@ -16,3 +16,6 @@ int input = scanner.nextInt();
 String input = scanner.next();
 String input = scanner.nextLine();
 ```
+
+Weitere Links: </br>
+<a href="https://www.w3schools.com/java/java_user_input.asp">User Input</a>

@@ -32,3 +32,8 @@ while(number < 10){
 }
 ```
 <b>Wichtig!</b> Man kann eine while Schleife mit break vorzeitig beenden und mit continue direkt zum nächsten Durchlauf springen!
+
+Weitere Links:</br>
+<a href="https://www.w3schools.com/java/java_while_loop.asp">While Loop</a></br>
+<a href="https://www.w3schools.com/java/java_for_loop.asp">For Loop</a></br>
+<a href="https://www.w3schools.com/java/java_math.asp">Random Zahl generieren</a>

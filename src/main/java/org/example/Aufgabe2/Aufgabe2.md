@@ -19,3 +19,6 @@ if(one == two){
     System.out.println("Die Zahlen sind nicht gleich");
 }
 ```
+
+Weitere Links:</br>
+<a href="https://www.w3schools.com/java/java_conditions.asp">If else<a>
