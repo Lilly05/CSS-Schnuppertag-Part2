@@ -27,6 +27,7 @@ for(int i = 0; i < arrayName.length; i++){
     for(int j = 0; j < arrayName[i].length; j++){
         System.out.println(arrayName[i][j]);
     }
+    System.out.println("\n"); // Dies ist ein Zeilenumbruch
 }
 ```
 

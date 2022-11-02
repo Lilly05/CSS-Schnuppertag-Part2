@@ -31,3 +31,4 @@ while(number < 10){
     System.out.println("number after:" + number);
 }
 ```
+<b>Wichtig!</b> Man kann eine while Schleife mit break vorzeitig beenden und mit continue direkt zum nächsten Durchlauf springen!
