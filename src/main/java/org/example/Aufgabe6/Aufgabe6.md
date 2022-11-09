@@ -1,5 +1,5 @@
 <b>Aufgabe 6:</b></br>
-Lese mit einem Scanner den eingegebenen Input ein  und speichere diesen in einer Variabel ab.
+Lese mit einem Scanner den eingegebenen Input auf der Konsole ein und speichere diesen in einer Variabel ab.
 Gebe anschliessend die Variabel aus.
 
 <b>Theorie:</b></br>
