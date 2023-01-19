@@ -1,8 +1,8 @@
-<b>Aufgabe 7</b></br>
+<h1>Aufgabe 7</h1>
 Erstelle eine Methode, die eine random Zahl zurück gibt und gebe diese
 auf der Konsole aus.
 
-<b>Theorie</b></br>
+<h1>Theorie</h1>
 Mit Methoden kann man seinen Code viel schöner und übersichtlicher programmieren.
 Der Vorteil ist ebenfalls, dass man Code, den man mehrmals gebraucht, nicht kopieren muss, 
 sondern einfach die Methode aufrufen muss.
@@ -41,7 +41,7 @@ Das heisst, die originalen Werte werden nicht verändert, wenn man sie in der Me
 Beispiel Methode mit Parameter:
 
 ```
-public static String multipliziereMitVier(int number){
+public static int multipliziereMitVier(int number){
     int newNumber = number * 4;
     return newNumber;
 
@@ -51,7 +51,7 @@ Hier wird der Wert, der als Parameter mitgegeben wird, mit 4 multipliziert.
 
 Es ist wichtig, Funktionen gut zu benennen, sodass direkt klar ist, was die Funktion genau macht.
 
-Eine Methode ruft man ausserhalb auf. 
+Die Methoden, die wir selbst geschrieben haben, können wir innerhalb der Main Methode oder innerhalb einer anderen Methode aufrufen, aber nicht direkt in der Methode selbst.
 
 Gehen wir davon aus, unser Programm sieht so aus:
 

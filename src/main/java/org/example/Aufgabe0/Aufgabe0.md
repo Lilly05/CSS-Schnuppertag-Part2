@@ -1,10 +1,10 @@
-<b>Aufgabe 0</b></br>
+<h1>Aufgabe 0</h1>
 Erstelle eine String Variabel und speichere deinen Namen ab.</br>
 Erstelle eine int Variabel und speichere dein Alter ab.</br>
 Erstelle eine boolean Variabel, die true ist, wenn du 14 Jahre oder älter bist,
 sonst ist die Variabel false.
 
-<b>Theorie</b></br>
+<h1>Theorie</h1>
 In Variablen kann man Text, Zahlen oder Zeichen speichern. 
 Eine sehr wichtige Rollen spielen bei Variablen der Datentyp.
 Es gibt Datentypen für Zahlen, Text u.s.w</br>
@@ -13,7 +13,7 @@ Hier sind die wichtigsten paar aufgelistet:
 
 <b>Text:</b></br>
 ```
-String text = "Hallo;
+String text = "Hallo";
 ```
 
 <b>int (Ganze Zahl):</b></br>
