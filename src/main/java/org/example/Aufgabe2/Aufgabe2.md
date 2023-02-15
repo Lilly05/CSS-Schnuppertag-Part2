@@ -4,7 +4,7 @@ ob die beiden Zahlen gleich gross sind, oder welche Zahl grösser ist
 
 <h1>Theorie:</h1>
 Um Bedingungen festzulegen, ob Code ausgeführt werden soll oder nicht, verwendet man if/else. 
-Die Bedingung schreibt man zwischen die beiden runden Klammern.
+Die Bedingung schreibt man zwischen den beiden runden Klammern.
 
 if(Bedingung) {dann ... }</br>
 else { ... }

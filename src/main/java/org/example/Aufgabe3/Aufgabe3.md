@@ -1,15 +1,16 @@
 <h1>Aufgabe 3</h1>
-Teil 1 For Schleifen:</br>
-Erstelle eine For Schleife, die in 4er Schritten alle Zahlen bis 100 ausgibt
 
-Teil 2 While Schleifen:</br>
-Erstelle eine While Schleife, in jedem Durchlauf eine neue random Zahl bis 100
-generiert. Sobald diese random Zahl über 50 ist, soll die Schleife abbrechen. 
+<strong>Teil 1 -</strong> for-Schleifen:</br>
+Erstelle eine for-Schleife, die in 4er-Schritten alle Zahlen bis 100 ausgibt.
+
+<strong>Teil 2 - </strong> while-Schleifen:</br>
+Erstelle eine while-Schleife, die in jedem Durchlauf eine neue zufällige Zahl bis 100
+generiert. Sobald diese Zahl über 50 ist, soll die Schleife abbrechen. 
 
 <h1>Theorie</h1>
 <b>Wann benutzt man welche Schleife?</b></br>
-For Schleife: Man weiss bereits, wie viel mal die Schleife durchlaufen muss.</br>
-While Schleife: Es ist noch nicht bekannt, wie viel mal die Schleife durchlaufen muss.</br>
+for-Schleife: Man weiss bereits, wie viel mal die Schleife durchlaufen muss.</br>
+while-Schleife: Es ist noch nicht bekannt, wie viel mal die Schleife durchlaufen muss.</br>
 <b>Meistens kann man jedoch beide Schleifen benutzen.</b>
 
 Beispiel:</br>
@@ -19,7 +20,7 @@ for(int i = 0; i <= 20; i++){
     System.out.println(i);
 }
 ```
-int i = 0; <- Variabel mit dem Wert 0 wird initialisiert und deklariert</br>
+int i = 0; <- Variable mit dem Wert 0 wird initialisiert und deklariert</br>
 i <= 20 <- Bedingung, wie lange die Forschleife durchlaufen soll</br>
 i++ <- i wird um 1 erhöht
 

@@ -1,5 +1,5 @@
 <h1>Aufgabe 7</h1>
-Erstelle eine Methode, die eine random Zahl zurück gibt und gebe diese
+Erstelle eine Methode, die eine zufällige Zahl zurückgibt, und gebe diese
 auf der Konsole aus.
 
 <h1>Theorie</h1>
@@ -35,7 +35,7 @@ public static void textAusgeben(){
 ```
 
 In den Klammern nach dem Namen der Methode, kann man Parameter mitgeben.
-Das sind Werte, die man in der Funktion gebraucht werden. Man gibt aber nur eine KOPIE der Werte mit.
+Das sind Werte, die in der Funktion gebraucht werden. Man gibt aber nur eine KOPIE der Werte mit.
 Das heisst, die originalen Werte werden nicht verändert, wenn man sie in der Methode bearbeitet.
 
 Beispiel Methode mit Parameter:
@@ -79,11 +79,11 @@ public class Main {
 }
 
 ```
-multipliziereMitVier verlangt einen Parameter, wir geben 4 mit und erhalten 16, da 4 * 4.
+`multipliziereMitVier` verlangt einen Parameter, wir geben 4 mit und erhalten 16, da 4 * 4.
 
-textAusgeben verlangt keine Parameter und gibt nur Text auf der Konsole aus und gibt keinen Wert zurück
+`textAusgeben` verlangt keine Parameter und gibt nur Text auf der Konsole aus und gibt keinen Wert zurück
 
-returnQuote verlangt keine Parameter und gibt "Hallo Leben" zurück.
+`returnQuote` verlangt keine Parameter und gibt "Hallo Leben" zurück.
 
 Weitere Links:</br>
 <a href="https://www.w3schools.com/java/java_methods.asp">Methoden</a></br>
